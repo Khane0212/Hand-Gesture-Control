@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mediapipe
+pyautogui
+joblib
+tensorflow==2.15.0
+pandas
+scikit-learn
