@@ -15,6 +15,14 @@ The system is designed to be lightweight, running smoothly on CPU at **30 FPS**.
 
 ---
 
+## Project Report
+
+For a detailed analysis of the system architecture, LSTM model design, and experimental results, please refer to the full report:
+
+**[Read the Full Project Report (PDF)](docs/Report_Hand_Gesture.pdf)**
+
+---
+
 ## Key Features
 
 * **Real-time Hand Tracking:** Uses MediaPipe for high-speed skeletal tracking.
